@@ -1,28 +1,18 @@
-[![bg][cover]][website]
-### Hi, I'm Baljeet and I am a Full Stack Web/Mobile Developer 👨‍💻
+### Hi, I'm David and I am a Front End Web Developer 👨‍💻
 
-- 🔭 I’m currently working on MxGraph
-- 🌱 I’m currently learning Tailwind CSS 
-- 👯 I’m looking to collaborate on creating articles/videos
-- 🤔 I’m looking for help with setting up professional home studio for recording
-- 💬 Ask me about HTML, CSS, Javascript, Angular/ Ionic, Node, Firebase etc.
+- 🔭 I’m currently working on mutiple projects
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on creating websites and educational content
+- 💬 Ask me about HTML, CSS, Javascript, React, UX Design, CSS Frameworks 
 - 📫 How to reach me: [website]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm very good with FIFA 20 (Video Game) and I know some things about music too
 
 ## Find me around the web 🌎:
 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📦 [npm][npm] **|**
 👔 [linkedin][linkedin]
 
-[cover]: https://raw.githubusercontent.com/mbaljeetsingh/mbaljeetsingh/master/cover.png
-[website]: https://baljeetsingh.in
-[twitter]: https://twitter.com/mbaljeetsingh
-[youtube]: https://youtube.com/BaljeetSingh
-[npm]: https://npmjs.com/~mbaljeetsingh
-[linkedin]: https://linkedin.com/in/mbaljeetsingh
+
+[website]: https://www.davidhaz.com/Portfolio/
+[linkedin]: https://www.linkedin.com/in/david-haz/
 [adobe]: https://adobe.com
 [react]: http://reactjs.org
 [gatsby]: https://gatsbyjs.org
