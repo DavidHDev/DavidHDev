@@ -1,7 +1,7 @@
 ### Hi, I'm David and I am a Front End Web Developer 👨‍💻
 
 - 🔭 I’m currently working on mutiple projects
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Angular
 - 👯 I’m looking to collaborate on creating websites and educational content
 - 💬 Ask me about HTML, CSS, Javascript, React, UX Design, CSS Frameworks 
 - 📫 How to reach me: [website]
