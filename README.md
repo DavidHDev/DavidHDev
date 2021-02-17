@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning React and Angular
 - 👯 I’m looking to collaborate on creating websites and educational content
 - 💬 Ask me about HTML, CSS, Javascript, React, UX Design, CSS Frameworks 
-- 📫 How to reach me: [website] **|or|** [linkedin]
+- 📫 How to reach me: [website] **| or |** [linkedin]
 
 ## Find me around the web 🌎:
-🏡 [website][website] **|or|** 
+🏡 [website][website] **| or |** 
 👔 [linkedin][linkedin]
 
 
