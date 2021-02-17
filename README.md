@@ -1,9 +1,9 @@
-### Hi, I'm David and I am a Front End Web Developer 👨‍💻
+### Hi, I'm David, Full Time Web Developer & Designer 👨‍💻
 
 - 🔭 I’m currently working on mutiple projects
 - 🌱 I’m currently learning React and Angular
 - 👯 I’m looking to collaborate on creating websites and educational content
-- 💬 Ask me about HTML, CSS, Javascript, React, UX Design, CSS Frameworks 
+- 💬 Ask me about HTML, CSS, Javascript, React, Angular, UX Design or anything web related!
 - 📫 How to reach me: [website] **| or |** [linkedin]
 
 ## Find me around the web 🌎:
