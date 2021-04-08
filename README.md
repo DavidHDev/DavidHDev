@@ -1,4 +1,4 @@
-### Hi, I'm David, Full Time Web Developer & Designer 👨‍💻
+### Hi, I'm David, Web Developer & Designer 👨‍💻
 
 - 🔭 I’m currently working on mutiple projects
 - 🌱 I’m currently learning React and Angular
