@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I'm David, Web Developer & Designer 👨‍💻
 
-<!--
-**DavidHDev/DavidHDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on mutiple projects with exciting web technologies
+- 👯 I’m looking to collaborate on creating websites and educational content
+- 💬 Ask me about Javascript, CSS, UI Design or anything else you can think of 😄
 
-Here are some ideas to get you started:
+## You can reach me here 🌎
+🏡 [Portfolio][website] **| or |** 
+👔 [LinkedIn][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[website]: https://www.davidhaz.com/
+[linkedin]: https://www.linkedin.com/in/david-haz/
+[adobe]: https://adobe.com
+[react]: http://reactjs.org
+[gatsby]: https://gatsbyjs.org
+[styled]: https://styled-components.com
+[jamstack]: https://jamstack.org
+[murphee]: https://murphee.netlify.app
+[svelte]: https://svelte.dev
+[tailwind]: https://tailwindcss.com
+[twitch]: https://twitch.tv/bradgarropy
+[instagram]: https://instagram.com/bradgarropy
