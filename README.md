@@ -1,8 +1,7 @@
-### Hi, I'm David, Web Developer & Designer 👨‍💻
+### Hey there, I'm David, nice to meet you! 👋🏻
 
-- 🔭 I’m currently working on mutiple projects with exciting web technologies
-- 👯 I’m looking to collaborate on creating websites and educational content
-- 💬 Ask me about Javascript, CSS, UI Design or anything else you can think of 😄
+- 🔭 I’m currently working as a Frontend Software Engineer!
+- 💬 Ask me about React, JavaScript, CSS, UI Design or anything web-related you can think of! 😄
 
 ## You can reach me here 🌎
 🏡 [Portfolio][website] **| or |** 
