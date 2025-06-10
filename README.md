@@ -1,22 +1,33 @@
-### Hey there, I'm David, nice to meet you! 👋🏻
+# Hi, I’m David 👋
 
-- 🔭 I’m currently working as a Frontend Software Engineer!
-- 💬 Ask me about React, JavaScript, CSS, UI Design or anything web-related you can think of! 😄
+I’m a web developer and designer who strives to build high-quality web experiences through clean, maintainable code and thoughtful design. I’m currently working full-time as a Frontend Software Engineer.
 
-## You can reach me here 🌎
-🏡 [Portfolio][website] **| or |** 
-👔 [LinkedIn][linkedin]
+---
 
+## 🛠️ Tech Stack
 
-[website]: https://www.davidhaz.com/
-[linkedin]: https://www.linkedin.com/in/david-haz/
-[adobe]: https://adobe.com
-[react]: http://reactjs.org
-[gatsby]: https://gatsbyjs.org
-[styled]: https://styled-components.com
-[jamstack]: https://jamstack.org
-[murphee]: https://murphee.netlify.app
-[svelte]: https://svelte.dev
-[tailwind]: https://tailwindcss.com
-[twitch]: https://twitch.tv/bradgarropy
-[instagram]: https://instagram.com/bradgarropy
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, Svelte, Angular  
+- **Styling & Design:** CSS3, SASS (SCSS), Less, Tailwind CSS, Figma 
+- **Backend & Tools:** Node.js, Express, Firebase, Supabase, MongoDB, Git  
+- **Testing & QA:** Jest  
+
+---
+
+## 🚀 Featured Projects
+
+- **[React Bits](https://github.com/DavidHDev/react-bits)**  
+  An open-source collection of animated, interactive & fully customizable React components.  
+- **[Haiku](https://github.com/DavidHDev/haiku)**  
+  A clean & lightweight library of React Hooks & utilities.  
+
+---
+
+## 📫 Let’s Connect
+
+| 🌐 Website | 💼 LinkedIn | 🐦 Twitter | 🐙 GitHub | 📧 Email |
+| :----------: | :--------: | :--------: | :-------: | :------: |
+| [davidhaz.com](https://www.davidhaz.com/) | [in/david-haz](https://www.linkedin.com/in/david-haz/) | [@davidhdev](https://x.com/davidhdev) | [@DavidHDev](https://github.com/DavidHDev) | [davidhzdev@gmail.com](mailto:contact@davidhaz.com) |
+
+---
+
+> *See you around!*
