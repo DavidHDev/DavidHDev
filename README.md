@@ -16,7 +16,9 @@ I’m a web developer and designer who strives to build high-quality web experie
 ## 🚀 Featured Projects
 
 - **[React Bits](https://github.com/DavidHDev/react-bits)**  
-  An open-source collection of animated, interactive & fully customizable React components.  
+  An open-source collection of animated, interactive & fully customizable React components.
+- **[Vue Bits](https://github.com/DavidHDev/vue-bits)**  
+  The official Vue port of React Bits, animated Vue components for creative developers.
 - **[Haiku](https://github.com/DavidHDev/haiku)**  
   A clean & lightweight library of React Hooks & utilities.  
 
