@@ -29,7 +29,7 @@ I’m a web developer and designer who strives to build high-quality web experie
 
 | 🌐 Website | 💼 LinkedIn | ⚫️ X | 🐙 GitHub | 📧 Email |
 | :----------: | :--------: | :--------: | :-------: | :------: |
-| [davidhaz.com](https://www.davidhaz.com/) | [in/david-haz](https://www.linkedin.com/in/david-haz/) | [@davidhdev](https://x.com/davidhdev) | [@DavidHDev](https://github.com/DavidHDev) | [davidhzdev@gmail.com](mailto:contact@davidhaz.com) |
+| [davidhaz.com](https://www.davidhaz.com/) | [in/david-haz](https://www.linkedin.com/in/david-haz/) | [@davidhdev](https://x.com/davidhdev) | [@DavidHDev](https://github.com/DavidHDev) | [contact@davidhaz.com](mailto:contact@davidhaz.com) |
 
 ---
 
