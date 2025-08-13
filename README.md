@@ -6,10 +6,11 @@ I’m a web developer and designer who strives to build high-quality web experie
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, Svelte, Angular  
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, Svelte, Vue, Angular  
 - **Styling & Design:** CSS3, SASS (SCSS), Less, Tailwind CSS, Figma 
 - **Backend & Tools:** Node.js, Express, Firebase, Supabase, MongoDB, Git  
-- **Testing & QA:** Jest  
+- **Testing & QA:** Jest
+- **Other:** WebGL, THREE.js, GSAP, Motion, Ogl
 
 ---
 
@@ -20,7 +21,7 @@ I’m a web developer and designer who strives to build high-quality web experie
 - **[Vue Bits](https://github.com/DavidHDev/vue-bits)**  
   The official Vue port of React Bits, animated Vue components for creative developers.
 - **[Haiku](https://github.com/DavidHDev/haiku)**  
-  A clean & lightweight library of React Hooks & utilities.  
+  A clean & lightweight library of React hooks & utilities.  
 
 ---
 
