@@ -4,6 +4,9 @@ I’m a web developer and designer who strives to build high-quality web experie
 
 ---
 
+## 👨‍💻 Work In Progress
+Currently building - **[React Bits Pro](https://pro.reactbits.dev/)**. It's coming early 2026! Join the waitlist!   
+
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, Svelte, Vue, Angular  
