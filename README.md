@@ -23,6 +23,8 @@ Currently building - **[React Bits Pro](https://pro.reactbits.dev/)**. It's comi
   An open-source collection of animated, interactive & fully customizable React components.
 - **[Vue Bits](https://github.com/DavidHDev/vue-bits)**  
   The official Vue port of React Bits, animated Vue components for creative developers.
+- **[Svelte Bits](https://github.com/DavidHDev/svelte-bits)**  
+  The official Svelte port of React Bits, animated Svelte components for creative developers.
 - **[Haiku](https://github.com/DavidHDev/haiku)**  
   A clean & lightweight library of React hooks & utilities.  
 
