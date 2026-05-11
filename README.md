@@ -5,7 +5,7 @@ I’m a web developer and designer who strives to build high-quality web experie
 ---
 
 ## 👨‍💻 Work In Progress
-Currently building - **[React Bits Pro](https://pro.reactbits.dev/)**. It's coming early 2026! Join the waitlist!   
+Currently building - **[React Bits Pro](https://pro.reactbits.dev/)**. It's live!
 
 ## 🛠️ Tech Stack
 
