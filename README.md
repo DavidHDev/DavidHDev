@@ -19,6 +19,8 @@ Currently building - **[React Bits Pro](https://pro.reactbits.dev/)**. It's live
 
 ## 🚀 Featured Projects
 
+- **[Canvas UI](https://github.com/DavidHDev/canvas-ui)**  
+  A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.
 - **[React Bits](https://github.com/DavidHDev/react-bits)**  
   An open-source collection of animated, interactive & fully customizable React components.
 - **[Vue Bits](https://github.com/DavidHDev/vue-bits)**  
