@@ -2,8 +2,6 @@
 
 I build memorable experiences for the web & web apps with a focus on usability and clean design.
 
----
-
 ## 🚀 Featured Projects
 
 - **[React Bits](https://github.com/DavidHDev/react-bits)**  
@@ -18,8 +16,6 @@ I build memorable experiences for the web & web apps with a focus on usability a
   The official Vue port of React Bits, animated Vue components for creative developers.
 - **[Svelte Bits](https://github.com/DavidHDev/svelte-bits)**  
   The official Svelte port of React Bits, animated Svelte components for creative developers.
-
----
 
 ## 📫 Let’s Connect
 
