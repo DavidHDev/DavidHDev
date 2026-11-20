@@ -16,6 +16,8 @@ I build memorable experiences for the web & web apps with a focus on usability a
   The official Vue port of React Bits, animated Vue components for creative developers.
 - **[Svelte Bits](https://github.com/DavidHDev/svelte-bits)**  
   The official Svelte port of React Bits, animated Svelte components for creative developers.
+- **[Solid Bits](https://github.com/DavidHDev/solid-bits)**  
+  The official Solid 2.0 port of React Bits, animated Solid components for creative developers.
 
 ## 📫 Let’s Connect
 
